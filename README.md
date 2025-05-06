@@ -25,5 +25,6 @@ The tool has been writen in pyhton. The purpose of this is something more than j
 1- go to the requirements.txt path and in terminal type : 
 ```bash  
 pip install -r requirements.txt
+```
 2- open extra_details.py and set your Shodan account Username and Password, and save it 
 3- Everything done ... use python ./main.py in path terminal to run the tool 
