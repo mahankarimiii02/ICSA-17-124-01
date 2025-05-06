@@ -1,7 +1,7 @@
 # Hikvision security cameras vulnerability 2014-2016 (ICSA-17-124-01) Tool
 
 # Description : 
-The tool has been writen in pyhton. The purpose of this is something more than just a simple tool, options you can have access to are : 
+The tool has been writen in pyhton. The purpose of this, is something more than a simple tool, the list of options you can have access to : 
 1. changing the password
 2. saving the encrypted configure file and also the decrypted one 
 3. have access to snapshot and also the live stream of camera 
@@ -31,3 +31,6 @@ pip install -r requirements.txt
 ```bash
 python ./main.py
 ```
+# The warnings : 
+1. The tool has been writen for educatonal purpose and nothing more ... it's you and your own responsibility
+2. Any governmental usage from this tool is permanently not allowed 
