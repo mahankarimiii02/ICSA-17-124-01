@@ -11,7 +11,7 @@ The tool has been writen in pyhton. The purpose of this is something more than j
     3- location
     4- ip range, network address, broadcast address
     5- device name, device id, model, serial number
-    6- mac address
+    6- mac address 
     
     
 
