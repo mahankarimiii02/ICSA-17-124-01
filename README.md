@@ -19,7 +19,7 @@ The tool has been written in Python. Its purpose goes beyond just a simple tool;
 # How to use it? 
 You just need to enter the target camera's IP address, and that’s all... The tool will check the IP for the ICSA-17-124-01 vulnerability. If vulnerable, the options menu will be activated for you.
 
-**Note: You will need a Shodan account. If you don’t have one, create one.**
+**Note: You will need a Shodan account. If you don’t have one, create it.**
 
 
 # Installation Guide :
