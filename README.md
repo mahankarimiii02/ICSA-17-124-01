@@ -2,16 +2,16 @@
 
 # Description : 
 The tool has been writen in pyhton. The purpose of this is something more than just a simple tool, options you can have access to are : 
-1- changing the password
-2- saving the encrypted configure file and also the decrypted one 
-3- have access to snapshot and also the live stream of camera 
-4- getting extra details like : 
-    1- open ports
-    2- country, city, org, isp and asn
-    3- location
-    4- ip range, network address, broadcast address
-    5- device name, device id, model, serial number
-    6- mac address 
+1. changing the password
+2. saving the encrypted configure file and also the decrypted one 
+3. have access to snapshot and also the live stream of camera 
+4. getting extra details like : 
+    - open ports
+    - country, city, org, isp and asn
+    - location
+    - ip range, network address, broadcast address
+    - device name, device id, model, serial number
+    - mac address 
     
     
 
