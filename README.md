@@ -16,7 +16,7 @@ The tool has been writen in pyhton. The purpose of this is something more than j
     
 
 # How to work with it? 
- you just need to enter the target security camera ip and thats all ... the tool checks the ip for ICSA-17-124-01 vulnerability and if it had the vulnerability the options menu be activated for you 
+ you just need to enter the target security camera ip and thats all ... the tool checks the ip for ICSA-17-124-01 vulnerability and if it had the vulnerability the options menu be activated for you  
  ** you will need a shodan account ... so it you don't have a one, create it **
 
 
