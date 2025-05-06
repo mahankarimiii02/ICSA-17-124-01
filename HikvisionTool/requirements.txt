@@ -1,0 +1,12 @@
+re
+request
+tkinter
+tkinterweb
+threading
+ipaddress
+ipwhois
+asyncio
+aiohttp
+itertools
+Crypto.Cipher
+cv2
