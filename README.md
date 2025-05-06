@@ -16,19 +16,20 @@ The tool has been written in Python. Its purpose goes beyond just a simple tool;
     
     
 
-# How to work with it? 
- you just need to enter the target security camera ip and thats all ... the tool checks the ip for ICSA-17-124-01 vulnerability and if it had the vulnerability the options menu be activated for you  
- **you will need a shodan account ... so it you don't have a one, create it**
+# How to use it? 
+You just need to enter the target camera's IP address, and that’s all... The tool will check the IP for the ICSA-17-124-01 vulnerability. If vulnerable, the options menu will be activated for you.
+
+**Note: You will need a Shodan account. If you don’t have one, create one.**
 
 
-# The installation guide :
+# Installation Guide :
 
-1. go to the requirements.txt path and in terminal type : 
+1. Go to the directory containing ```requirements.txt``` and run in the terminal : 
 ```bash  
 pip install -r requirements.txt
 ```
-2. open extra_details.py and set your Shodan account Username and Password, and save it 
-3. Everything done ... for running the tool you can use :
+2. Open ```extra_details.py``` and set your Shodan account username and password, then save the file.
+3. Everything done ... To run the tool, use:
 ```bash
 python ./main.py
 ```
