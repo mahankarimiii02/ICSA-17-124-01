@@ -1,4 +1,4 @@
-# Hikvision security cameras vulnerability 2014-2016 (ICSA-17-124-01) Tool
+# Hikvision Security Cameras Vulnerability 2014-2016 (ICSA-17-124-01) Tool
 
 # Description : 
 The tool has been written in Python. Its purpose goes beyond just a simple tool; the list of options you can access includes:
