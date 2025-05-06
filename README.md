@@ -1,17 +1,18 @@
 # Hikvision security cameras vulnerability 2014-2016 (ICSA-17-124-01) Tool
 
 # Description : 
-The tool has been writen in pyhton. The purpose of this, is something more than a simple tool, the list of options you can have access to : 
-1. changing the password
-2. saving the encrypted configure file and also the decrypted one 
-3. have access to snapshot and also the live stream of camera 
-4. getting extra details like : 
-    - open ports
-    - country, city, org, isp and asn
-    - location
-    - ip range, network address, broadcast address
-    - device name, device id, model, serial number
-    - mac address 
+The tool has been written in Python. Its purpose goes beyond just a simple tool; the list of options you can access includes:
+
+1. Changing the password
+2. Saving the encrypted configuration file and the decrypted one
+3. Access to camera snapshots and live streams
+4. Retrieving additional details such as:
+    - Open ports
+    - Country, city, organization, ISP, and ASN
+    - Location
+    - IP range, network address, broadcast address
+    - Device name, device ID, model, serial number
+    - MAC address
     
     
 
