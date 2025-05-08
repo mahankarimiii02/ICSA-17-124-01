@@ -34,5 +34,4 @@ pip install -r requirements.txt
 python ./main.py
 ```
 # The warnings : 
-1. The tool has been written for educational purposes only and nothing more. I'm not responsible for other usages.
-2. Any governmental usage of this tool is strictly prohibited.
+The tool has been written for educational purposes only and nothing more. I'm not responsible for other usages.
